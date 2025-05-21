@@ -138,4 +138,57 @@
 
 | Plus | Minus | Implication |
 |------|-------|-------------|
-| Canva is also a potententially useful app for UX design, as it features a beginner-friendly interface with thousands of templates, so the prototyping process can be done quiickly. It also has a relatively simple interface, so accessing the features will be made easy. | While it is a simple design tool, it lacks a lot of advanced features, especially in adjusting size of objects and elements. Furthermore, it is not specifically designed towards creating UX designs, and it may be ineffective to creating detailed prototypes. | Considering Canva's lack of UX specific designing features, I will not consider Canva as a potential 
+| Canva is also a potententially useful app for UX design, as it features a beginner-friendly interface with thousands of templates, so the prototyping process can be done quiickly. It also has a relatively simple interface, so accessing the features will be made easy. | While it is a simple design tool, it lacks a lot of advanced features, especially in adjusting size of objects and elements. Furthermore, it is not specifically designed towards creating UX designs, and it may be ineffective to creating detailed prototypes. | Considering Canva's lack of UX specific designing features, and its lack of advanced features (e.g. scaling elements is only limited to overall size, not stretch), I won't consider choosing this software to design my user experience. |
+
+#### 
+
+### **Wireframes**
+
+#### **Wireframe 1**
+
+![Gantt Chart](images/IMG_20250404_075900.jpg)
+
+#### **Wireframe 2**
+![Gantt Chart](images/IMG_20250404_075849.jpg)
+
+#### **Wireframe 3**
+![Gantt Chart](images/IMG_20250404_075834.jpg)
+
+#### **Evaluation**
+
+##### From the feedback that I have received, I have **learned** that space management is extremely important, as many of the responses collected were suggesting for less 'airy' spaces for layout 1. In addition, a concept known as 'eye movement' was introduced to me, and some particular responses suggested reorganising the chat sections specific to layout 2. Knowing this, I will apply this feedback to manage my space management in my upcoming and final prototypes.
+
+## Producing and Implementing
+
+### **Prototype 1**
+
+![Prototype1](images/prototype1.png)
+
+#### Analysing some of the given feedback, some users have noticed that the information on the home screen looks a little bit packed together (too dense), or overcrowded. In addition, some users also stated that the yellow clock icon didn't seem to suggest them to take immediate action, as it is meant to represent an overdue invoice payment. On the other hand, most of the users said that the simplicity of the overall design worked well, making it easy on the eyes. Based on this feedback, the home screen overall met its minimum functionality requirements, but some visuals do need to be improved, but it can be safely determined to be user-friendly.
+#### There was no other prototype at this time, to test load speeds, but the current prototype worked smoothly to all users. Regarding survey and interview trends, most of the given feedback was similar, especally in relation to space management issues, so that must be addressed when creating the final prototype. 
+#### In conclusion, the main areas for improvement regarding this prototype is to address space management, visuals choices and perhaps some extra accessiblity features (such as a dark mode version for the final prototype).
+
+### **Prototype 2**
+
+![Prototype2](images/prototype2.png)
+
+#### Analysing some of the given feedback, some of the users, similarly to prototype 1, have stated that there is a potential information overload, especially in the 'other statistics' section. In addition, some of the users also noticed a gap of space in between the ends and the competitor analysis boxes, and they suggested it to be filled. On the other hand, the users also stated that the integration of interactable data was a great functional feature. and the customisable competitor analysis concept was also a good feature for the app. Based on the given feedback, this prototype has overall great functionality that fits the purpose of the app, and is fairly user-friendly and easy to use with the help of easily visible design elements.
+#### The load speed between the current 2 prototypes is kept under 1 second, which meets the minimum requirement. Interactable features within the app are responsive, but sometimes lag behind. So overall, the app's responsivness and load times are kept at an acceptable level. As before, most of the responses were relatively consistent, where a lot of them mentioned about space management and information density.
+#### In conclusion, the main areas of improvement is to address information density and reconsider design choices, and although it is a minor issue, it slightly worsens the user experience.
+
+### **Prototype 3**
+
+![prototype3](images/prototype3.png)
+
+![prototype3-1](images/prototype3-1.png)
+
+## Final Evaluation
+
+#### Overall, this project was only a partial success in terms of reaching the planned requirements, especially non-functional ones. To start, the prototypes created have good performance, with minimal delays or loading times. The fonts were maintained to be easy to read, and buttons were easy to see. 3 examples were created (home screen, competitor analysis, messaging app), and while some of them weren't planned to be a test case, they still met their functional requirement of serving the user as a business optmisation tool. The entire design theme was kept simple as planned. However, plans regarding security were not brought into the prototypes, as they were mainly design related prototypes. 
+#### The preferred audience that will be the main users was targeted successfully, as the prototypes met its functioanl requirements. It provided tools for analysis that are also interactive, and included a built-in messaging app for easy access and convenience.
+#### Regarding social, ethical and legal responsibilities, mostly social responsibilities were properly addressed. While the tools (competitor analysis) prototype proves useful, it is not very complicated, so users will be able to make conclusions themselves based on the data, instead of the data giving out the trends blatantly, reducing potential overreliance. All resources involving graphics were kept generic, to avoid any copyright or legal issues. However, security related (legal) concerns could not be addressed properly, as the prototypes were mainly design based, so not all responsibilties could've been considered.
+#### Throughout the production process, the first half of the project (everything until producing and implementing) went smoothly and on time in relation to the gantt chart. However, progress started slowing down, mainly due to poor time management and/or lost time, especially in the holidays between term 1 and 2, and it resulted in me being behind schedule by about 1 week on average when entering sprint 1. To adapt, I decided to focus on a variety of prototypes (pages) that would voer as many potential aspects of the app as possible. While I didn't get to produce some of the planned test cases and some of the non-functional requirements (e.g. mobile version), getting the point of the app across was the most important to achieve User Experience Design success to me. 
+#### I decided to take some of the given feedback 
+
+
+
